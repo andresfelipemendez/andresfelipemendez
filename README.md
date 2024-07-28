@@ -1,7 +1,7 @@
 Hi there 👋
-I'm Andres Felipe Mendez Torres, an experienced Software Developer specializing in game development, data-oriented design, and performance-oriented software architecture. 🎮✨
+I'm Andres Felipe Mendez Torres, a Software Developer passionate about becoming a great game engine developer, focusing on writing software that's well-designed for maintainability and performance. 🎮✨
 
-- 🔭 I’m currently working on implementing game engine systems using data-oriented design.
+- 🔭 I’m currently working on implementing game engines using data-oriented design.
 - 🌱 I’m currently learning more about data-oriented design and game engine architecture.
 - 👯 I’m looking to collaborate on innovative game development projects.
 - 🤔 I’m looking for help with learning data-oriented design.
